@@ -1,1 +1,1 @@
-# Contra-Comic-Sans
+# ContraComicSans
